@@ -98,6 +98,7 @@ export class NgxTimePickerDirective implements OnInit {
     this.el.nativeElement.style.marginTop = this.inlineStyleInfo.margintop,
     this.el.nativeElement.style.padding = this.inlineStyleInfo.padding,
     this.el.nativeElement.style.position = this.inlineStyleInfo.relative,
+    this.el.nativeElement.style.float = this.inlineStyleInfo.float,
     initElement.input.style.border = this.inlineStyleInfo.border;
   }
 

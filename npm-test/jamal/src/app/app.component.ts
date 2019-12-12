@@ -7,8 +7,4 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'jamal';
-
-  onClick(inputText): void {
-    console.log(inputText.value);
-  }
 }

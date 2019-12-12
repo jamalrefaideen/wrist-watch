@@ -538,6 +538,7 @@ export class ClockserviceService {
     absolute: 'absolute',
     display: 'inline-block',
     marginbottom: '25px',
+    float: 'left',
     marginright: '25px',
     padding: '2rem',
     top: '15px',
