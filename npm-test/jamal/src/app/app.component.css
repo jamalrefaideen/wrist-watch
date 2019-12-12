@@ -1,0 +1,10 @@
+.left-circle {
+   width:20px;
+   height: 10px;
+   border: 8px solid green;
+   transform: rotateX(30deg) translate(30px,50px);
+   margin:10px
+
+}
+
+
